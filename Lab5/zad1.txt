@@ -1,0 +1,4 @@
+Rezultat interpolacji geometrycznej jest lepszy niż interpolacji wielomianowej. 
+Dla obu obserwujemy większą dokładność wraz ze wzrostem K.
+Wyniki interpolacji wielomianowej są pogorszone wraz ze zbliżaniem się do krańców przedziałów, 
+można to interpretować jako efekt Rungego.

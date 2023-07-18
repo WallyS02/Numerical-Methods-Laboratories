@@ -1,0 +1,3 @@
+Dla interpolacji wielomianowej zwiększenie liczby punktów pomiarowych nie zwiększa dokładności, a nawet ją pogarsza.
+Dla interpolacji trygonometrycznej zwiększenie liczby punktów pomiarowych zwiększa dokładność wyniku.
+W naszym przypadku dokładniesza okazuje się interpolacja trygonometryczna.

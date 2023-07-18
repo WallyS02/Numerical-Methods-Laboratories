@@ -1,0 +1,3 @@
+a) Metoda Gaussa-Seidla okazała się najszybsza.
+b) Metoda Gaussa-Seidla potrzebowała mniej iteracji. Potrzebowała prawie 2 razy mniej obiegów pętli.
+Metoda bezpośrednia wypadła najgorzej z całej trójki metod.

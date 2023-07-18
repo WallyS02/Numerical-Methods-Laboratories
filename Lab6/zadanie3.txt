@@ -1,0 +1,2 @@
+Z powodu możliwego błędu 5% danych lepiej użyć aproksymacji, ponieważ rezultat interpolacji dopasowany byłby
+do węzłów odbiegających od rzeczywistych wartości.

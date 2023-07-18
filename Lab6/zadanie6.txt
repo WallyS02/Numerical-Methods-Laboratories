@@ -1,0 +1,10 @@
+Jaka jest różnica pomiędzy interpolacją danych zawierających 151 wartości oraz ich
+aproksymacją, gdy rząd aproksymacji wynosi 150?
+
+Interpolacja polega na znalezieniu funkcji, która dokładnie przechodzi przez wszystkie dostępne punkty danych,
+a aproksymacja to proces znajdowania funkcji, która najlepiej pasuje do dostępnych danych, ale niekoniecznie 
+przechodzi przez wszystkie punkty.
+
+Czy dla aproksymacji trygonometrycznej występuje efekt Rungego?
+
+Nie, w przeciwieństwie do aproksymacji wielomianowej.

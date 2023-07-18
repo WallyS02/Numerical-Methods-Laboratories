@@ -1,0 +1,10 @@
+W przypadku punktu startowego równego 6.0 funkcja znalazła miejsce zerowe w punkcie 6.2832, 
+co jest poprawnym oszacowaniem, z zadowalającą dokładnością. 
+Użyła metody interpolacji oraz działała przez 7 iteracji. 
+Niedokładność ostatecznego rozwiązania wyniosła -2.44929e-16.
+
+W przypadku punktu startowego równego 4.5 funkcja nie znalazła miejsc zerowych funkcji tangens.
+Przez 68 iteracji używała metod interpolacji oraz bisekcji.
+Po wykonaniu iteracji funkcja zwróciła komunikat z informacją, że podany punkt jest prawdopodobnie w pobliżu punktu
+osobliwości i zaczęła się do niego zbiegać. Przyczyną jest to, że krańce przedziałów szukania zostały ustalone
+po obu stronach asymptoty pionowej.

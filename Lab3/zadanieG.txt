@@ -1,0 +1,2 @@
+a) Norma błędu rezydualnego dla metody bezpośredniej wynosi 6.9689e-13, a dla metod iteracyjnych jest NaN.
+b) Skoro norma dla metod iteracyjnych wynosi NaN, oznacza to, że metody się nie zbiegają.
