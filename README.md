@@ -1,0 +1,2 @@
+# Numerical-Methods-Laboratories
+Collection of Numerical Methods laboratories tasks covering simple PageRank algorithm, solving systems of linear equations with Jacobi, Gauss-Seild and LU decomposition methods, solving systems of nonlinear equations with bisection and secant method, polynomial and trigonometric interpolation, polynomial and trigonometric approximation, rectangle, trapezoidal, Simpson's and Monte Carlo numerical integration.
